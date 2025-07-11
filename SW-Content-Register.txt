@@ -1,0 +1,13 @@
+NXP Software Content Register
+
+Package:                   an-mc-pmsm-one-shunt-mcxa153
+Version:                   1.0
+Outgoing License:          NXP LA_OPT_Online Code Hosting NXP_Software_License - v1.3 December 2024
+License File:              LICENSE.txt
+Description and comments:  This demo shows the implementation of the 3-phase Permanent Magnet Synchronous Motor (PMSM) sensorless field Oriented Control (FOC) with one-shunt current sample based on the NXP MCXA153 processor.
+Release Location:          https://github.com/nxp-appcodehub/an-mc-pmsm-one-shunt-mcxa153
+Origin:                    NXP (proprietary)
+                           NXP (BSD-3-Clause)
+                           ARM CMSIS 5.8.0(Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0  
+                           Brad Conte SHA1 (Public Domain）- https://github.com/B-Con/crypto-algorithms
+                           rtcesl 4.8 (NXP proprietary) - https://github.com/nxp-mcuxpresso/rtcesl
