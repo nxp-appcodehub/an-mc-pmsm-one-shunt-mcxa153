@@ -2,7 +2,7 @@
 [<img src="https://mcuxpresso.nxp.com/static/icon/nxp-logo-color.svg" width="100"/>](https://www.nxp.com)
 
 ## AN14619: One-shunt FOC on MCX A
-This application note describes the implementation of sensorless one shunt FOC on NXP MCX A series MCUs. Please refer to AN14619 <!--[AN14619](https://www.nxp.com/docs/en/application-note/AN14619.pdf)Will add after release --> for complete instructions on how to use this software.  
+This application note describes the implementation of sensorless one shunt FOC on NXP MCX A series MCUs. Please refer to [AN14619](https://www.nxp.com/webapp/Download?colCode=AN14619&isHTMLorPDF=HTML) for complete instructions on how to use this software.  
 This application note mainly introduces the principle of one shunt PMSM FOC, hardware and software implementation with NXP development kit, including a detailed peripheral setup,driver description and FreeMASTER operation guide.
 
 #### Boards: FRDM-MCXA153
@@ -22,7 +22,7 @@ This application note mainly introduces the principle of one shunt PMSM FOC, har
 ## 1. Software<a name="step1"></a>
 - Download and install [MCUXpresso IDE V24.12.148 or later](https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE).
 - Download and install the latest version of [FreeMASTER](https://www.nxp.com/design/software/development-software/freemaster-run-time-debugging-tool:FREEMASTER)(3.2.2.2).
-- Download the code from Git repository an-mc-pmsm-one-shunt-mcxa153 <!--[an-pmsm-foc-mcxa153](https://github.com/nxp-appcodehub/an-pmsm-foc-mcxa153/browse)-->.  
+- Download the code from Git repository [an-pmsm-foc-mcxa153](https://github.com/nxp-appcodehub/an-mc-pmsm-one-shunt-mcxa153).  
 - MCUXpresso for Visual Studio Code: This example supports MCUXpresso for Visual Studio Code, for more information about how to use Visual Studio Code please refer [here](https://www.nxp.com/design/training/getting-started-with-mcuxpresso-for-visual-studio-code:TIP-GETTING-STARTED-WITH-MCUXPRESSO-FOR-VS-CODE).
 
 ## 2. Hardware<a name="step2"></a>
